@@ -37,9 +37,9 @@
                     <p class="text-gray-400 text-xs uppercase tracking-widest mb-1">Developer</p>
                     <h1 class="text-3xl font-bold mb-4">YourName.CS</h1>
                     <div class="space-y-2 text-sm text-gray-300">
-                        <div class="flex justify-between"><span>📍 Country</span><span class="text-white">Germany</span></div>
-                        <div class="flex justify-between"><span>🎂 Age</span><span class="text-white">15 years old</span></div>
-                        <div class="flex justify-between"><span>💻 Coding</span><span class="text-white">Since 2020</span></div>
+                        <div class="flex justify-between"><span>📍 Country</span><span class="text-white">Slovakia</span></div>
+                        <div class="flex justify-between"><span>🎂 Age</span><span class="text-white">13 years old</span></div>
+                        <div class="flex justify-between"><span>💻 Coding</span><span class="text-white">Since 2022</span></div>
                     </div>
                 </div>
             </div>
